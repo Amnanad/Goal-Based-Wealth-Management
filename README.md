@@ -11,12 +11,14 @@ To set up and run this project locally, follow these steps:
  1. Install Requirements: Install the required Python packages:
 
 pip install -r requirements.txt
+ 
  2. Requirements include:
 
 streamlit
 yfinance
 numpy
 pandas
-9. Run the App: Start the Streamlit app with:
+
+3. Run the App: Start the Streamlit app with:
 
 streamlit run main.py
