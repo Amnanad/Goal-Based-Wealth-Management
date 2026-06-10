@@ -8,15 +8,15 @@ Weight Normalization: Within each category, sector weights are normalized to sum
 # Installation
 To set up and run this project locally, follow these steps:
 
-# Install Requirements: Install the required Python packages:
+ 1. Install Requirements: Install the required Python packages:
 
 pip install -r requirements.txt
-# Requirements include:
+ 2. Requirements include:
 
 streamlit
 yfinance
 numpy
 pandas
-Run the App: Start the Streamlit app with:
+9. Run the App: Start the Streamlit app with:
 
 streamlit run main.py
